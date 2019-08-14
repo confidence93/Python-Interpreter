@@ -20,18 +20,13 @@ class array(object):
             yield i
 
 
-# a = array(size=10)
-# a[0] = 0
-# a[1] = 1
-# for i in a:
-#     print(i)
-
 class Node(object):
     def __init__(self, val=None, next=None, prev=None):
         self.val = val
         self.next = next
         self.prev = prev
 
+        
 class LinkedList(object):
     def __init__(self, maxsize=32):
         self.maxsize = maxsize
