@@ -18,8 +18,8 @@ task:
    
          1.interter(Deep understanding of python) processing
    
-         2.about network(use python implement)　not start
+         2.about network(use python implement)　processing
    
-         3.distributed(use python implement) not start
+         3.distributed(use python implement) processing
    
-         4.docker and kubernets(must study go) not start
+         4.kubernets(must study Golang) processing
