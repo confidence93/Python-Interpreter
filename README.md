@@ -16,10 +16,10 @@ finally why use english description?
 
 task:
    
-         1.interter(Deep understanding of python) processing
+         1.interter(Deep understanding of python) done
    
-         2.about network(use python implement)　processing
+         2.about network(use python implement)　processing  80%
    
-         3.distributed(use python implement) processing
+         3.distributed(use python implement) processing  10%
    
-         4.kubernets(must study Golang) processing
+         4.kubernets(must study Golang) processing  30%
